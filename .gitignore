@@ -1,0 +1,16 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.vs/SoundSoulAPI/FileContentIndex/053a6455-cb28-4d1b-b81a-474fa5e52804.vsidx
+.vs/SoundSoulAPI/FileContentIndex/1cb5428d-d67b-4dec-bc29-57ba4209956c.vsidx
+.vs/SoundSoulAPI/FileContentIndex/2924ac96-3cd1-462c-bff4-f98fb93eebd5.vsidx
+.vs/SoundSoulAPI/FileContentIndex/read.lock
+.vs/SoundSoulAPI/v17/.futdcache.v2
+*.vsidx
+.vs/SoundSoulAPI/v17/.suo
+*.1
+*.v2
+.vs/SoundSoulAPI/FileContentIndex/write.lock
+.idea
