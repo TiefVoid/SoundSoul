@@ -10,6 +10,7 @@ riderModule.iml
 .vs/SoundSoulAPI/v17/.futdcache.v2
 *.vsidx
 .vs/SoundSoulAPI/v17/.suo
+/.vs/SoundSoulAPI/v17/.suo
 *.1
 *.v2
 .vs/SoundSoulAPI/FileContentIndex/write.lock
