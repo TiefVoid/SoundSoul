@@ -16,4 +16,8 @@
     <Folder Include="Repositories\App\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SoundSoulCore\SoundSoulCore.csproj" />
+  </ItemGroup>
+
 </Project>

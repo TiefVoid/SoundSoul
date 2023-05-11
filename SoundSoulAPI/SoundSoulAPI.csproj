@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SoundSoulApplication\SoundSoulApplication.csproj" />
-    <ProjectReference Include="..\SoundSoulInfrastructure\SoundSoulInfrastructure.csproj" />
   </ItemGroup>
 
 </Project>
