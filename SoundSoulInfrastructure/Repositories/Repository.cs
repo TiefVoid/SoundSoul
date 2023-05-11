@@ -1,6 +1,7 @@
 using Npgsql;
 using NpgsqlTypes;
 using System.Data;
+using Newtonsoft.Json;
 
 namespace SoundSoulInfrastructure.Controllers
 {

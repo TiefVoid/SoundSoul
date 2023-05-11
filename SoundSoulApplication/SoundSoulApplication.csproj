@@ -15,4 +15,9 @@
     <Folder Include="UseCases\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SoundSoulCore\SoundSoulCore.csproj" />
+    <ProjectReference Include="..\SoundSoulInfrastructure\SoundSoulInfrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
